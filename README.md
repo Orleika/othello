@@ -19,8 +19,10 @@ java AI1 ${hostname} <white/black>
 java Controller ${hostname} <white/black>
 ```
 
-windows
+For windows  
+```
 vs.bat
+```
 
 # License
 Copyright (c) 2016 orleika
